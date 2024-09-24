@@ -15,6 +15,4 @@ Feel free to explore the solutions, analyze the approaches used, and adapt them 
 
 ## Disclaimer
 
-While the solutions provided here aim to be effective and efficient, there may be multiple valid approaches to solving each problem. It's essential to understand the underlying concepts and explore different strategies to become a proficient problem solver.
-
-Happy coding!
+While the solutions provided here aim to be effective and efficient, there may be multiple valid approaches to solving each problem. It's essential to understand the underlying concepts and explore different strategies.
